@@ -1,0 +1,12 @@
+{
+  "name": "DAO Governance Agent v1.0",
+  "description": "Autonomous agent for participating in DAO governance, proposal analysis, and voting execution",
+  "image": "https://bafybeidkqeyaecakbf5szipxqo3ss2ieynzlqp552b2ycr3m4r4mkw324e.ipfs.w3s.link/",
+  "agent_type": "governance",
+  "capabilities": [
+    "proposal_analysis",
+    "sentiment_aggregation",
+    "automated_voting"
+  ],
+  "version": "1.0.0"
+}
